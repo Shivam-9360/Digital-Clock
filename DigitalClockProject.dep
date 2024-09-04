@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>1973760780</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\print.cpp</file>
+            <file>$PROJ_DIR$\ds1307.h</file>
+            <file>$PROJ_DIR$\iic.h</file>
+            <file>$PROJ_DIR$\liquid_crystal.h</file>
+            <file>$PROJ_DIR$\pin_mapping.h</file>
+            <file>$PROJ_DIR$\timer.cpp</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
+            <file>$PROJ_DIR$\main.cpp</file>
+            <file>$PROJ_DIR$\print.h</file>
+            <file>$PROJ_DIR$\timer.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.r51</file>
+            <file>$PROJ_DIR$\iic.cpp</file>
+            <file>$PROJ_DIR$\ds1307.cpp</file>
+            <file>$TOOLKIT_DIR$\inc\ioAT89S52.h</file>
+            <file>$PROJ_DIR$\liquid_crystal.cpp</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ds1307.xcl</file>
+            <file>$PROJ_DIR$\Debug\List\DigitalClockProject.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\DigitalClockProject.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\iic.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\print.xcl</file>
+            <file>$PROJ_DIR$\Debug\Exe\DigitalClockProject.hex</file>
+            <file>$PROJ_DIR$\Debug\Obj\ds1307.r51</file>
+            <file>$TOOLKIT_DIR$\config\devices\Microchip\lnk51ew_AT89S52.xcl</file>
+            <file>$PROJ_DIR$\Debug\List\ds1307.lst</file>
+            <file>$PROJ_DIR$\Debug\Obj\print.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\liquid_crystal.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\liquid_crystal.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\iic.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\ds1307.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\List\ds1307.s51</file>
+            <file>$PROJ_DIR$\Debug\Obj\liquid_crystal.r51</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-nsid-2e16inc.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\print.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\iic.__cstat.et</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 23 19</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\print.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\timer.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 12</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\iic.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ds1307.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 33 26 24 31 34 8 27 12</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 1 2 4 11 15 13 16 3 10 9 0 5</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\liquid_crystal.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\DigitalClockProject.hex</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 25 24 31 34 8 27 12 35</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>XLINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
